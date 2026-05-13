@@ -1,7 +1,7 @@
 {
-  "name": "Misa",
+  "name": "hanami-music-bot",
   "version": "1.0.0",
-  "description": "Your Beloved Discord Music Bot",
+  "description": "Aesthetic Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
