@@ -1,7 +1,7 @@
 {
   "name": "hanami-music-bot",
-  "version": "1.0.0",
-  "description": "Aesthetic Discord Music Bot",
+  "version": "3.0.0",
+  "description": "Advanced Aesthetic Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,8 +9,8 @@
   "dependencies": {
     "discord.js": "^14.15.3",
     "@discordjs/voice": "^0.17.0",
-    "play-dl": "^1.9.7",
-    "@distube/ytdl-core": "^4.13.5",
+    "distube": "^5.0.2",
+    "@distube/yt-dlp": "^2.0.1",
     "ffmpeg-static": "^5.2.0"
   }
 }
