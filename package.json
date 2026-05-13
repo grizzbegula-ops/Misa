@@ -1,7 +1,7 @@
 {
   "name": "Misa",
   "version": "1.0.0",
-  "description": "Your Beloved Music Bot",
+  "description": "Your Beloved Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
