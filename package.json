@@ -1,14 +1,14 @@
 {
   "name": "aesthetic-music-bot",
-  "version": "1.0.0",
-  "description": "Aesthetic Discord Music Bot",
+  "version": "2.0.0",
+  "description": "Aesthetic Discord Music Bot (Railway Ready)",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18 <21"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
