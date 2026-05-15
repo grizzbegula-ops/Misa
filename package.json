@@ -1,0 +1,19 @@
+{
+  "name": "aesthetic-music-bot",
+  "version": "7.0.0",
+  "description": "Discord Music Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "discord-player": "^6.6.8",
+    "@discord-player/extractor": "^4.5.1",
+    "dotenv": "^16.4.5"
+  }
+}
