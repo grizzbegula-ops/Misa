@@ -1,2 +1,0 @@
-# Misa
-Musicbot
